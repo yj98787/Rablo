@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981801127288",
+    "project_id": "rablo-5ba08",
+    "storage_bucket": "rablo-5ba08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981801127288:android:3fd84b7ab40a3dd54ccc8d",
+        "android_client_info": {
+          "package_name": "com.example.rablo_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdxj_HJq_Vk_0u03rl9Waj3m1b5JbxccE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
